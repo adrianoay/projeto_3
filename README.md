@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png)
+<div align=”center”>![Logo of the project](https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png)</div>
 
 ## Análise de Dados Ranking dos Melhores Filmes do IMDb
 
@@ -51,8 +51,8 @@ Here will be the images and descriptions. Principal content.
 ![Using_Sqlalchemy](https://www.google.com/search?q=tradutor&rlz=1C5CHFA_enBR924BR925&oq=tra&aqs=chrome.1.69i60j69i59j69i57j69i60l3j69i65l2.1663j0j7&sourceid=chrome&ie=UTF-8)
 
 ### 5 - Table and Columns created in the database
-![Using_PostgreeSQL](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.05.05.png)
-![Table](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.06.57.png)
+<div align=”center”> ![Using_PostgreeSQL](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.05.05.png)
+<div align=”center”> ![Table](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.06.57.png)</div>
 
 ### 6 - History created in Tableau
 ![Story_1](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.58.27.png)
