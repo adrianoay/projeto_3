@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png" >
+<img src="https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png" >
 </div>
 
 # Data Analysis Ranking of the Best IMDb Movies
