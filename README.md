@@ -33,11 +33,34 @@ The software  used in this project was:
 * Donuts Charts
 * Bubble Charts
 * Tree Maps
- 
+
 ## How to use
 
 Here will be the images and descriptions. Principal content.
 
+### 1 - Managing environment variables in python
+![Using_dotenv_and_os](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.59.37.png)
+
+### 2 - Web API class and returning the DataFrame
+![Using_Request](https://www.google.com/search?q=tradutor&rlz=1C5CHFA_enBR924BR925&oq=tra&aqs=chrome.1.69i60j69i59j69i57j69i60l3j69i65l2.1663j0j7&sourceid=chrome&ie=UTF-8)
+
+### 3 - DataFrame already manipulated and cleaned
+![Using_Pandas](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.01.10.png)
+
+### 4 - Class of the PostgreSQL database connection
+![Using_Sqlalchemy](https://www.google.com/search?q=tradutor&rlz=1C5CHFA_enBR924BR925&oq=tra&aqs=chrome.1.69i60j69i59j69i57j69i60l3j69i65l2.1663j0j7&sourceid=chrome&ie=UTF-8)
+
+### 5 - Table and Columns created in the database
+![Using_PostgreeSQL](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.05.05.png)
+![Table](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.06.57.png)
+
+### 6 - History created in Tableau
+![Story_1](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.58.27.png)
+![Story_2](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.58.12.png)
+![Story_3](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.57.47.png)
+
+### 7 - Dashboard created in Tableau
+![Dashboard](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-21%20a%CC%80s%2005.21.48.png)
 
 ## Features
 
