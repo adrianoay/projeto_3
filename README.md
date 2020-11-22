@@ -2,7 +2,7 @@
 <img src=https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png" >
 </div>
 
-<p style="text-align: center;"> Data Analysis Ranking of the Best IMDb Movies </p>
+# Data Analysis Ranking of the Best IMDb Movies
 
 Esse projeto teve com intuito fazer uma análise se podemos confiar no ranking de melhores filmes do site https://www.imdb.com/.
 
