@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png">
+<img src=https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png" >
 </div>
 
-## Análise de Dados Ranking dos Melhores Filmes do IMDb
+<div align="center"><title = "Data Analysis Ranking of the Best IMDb Movies"></div>
 
 Esse projeto teve com intuito fazer uma análise se podemos confiar no ranking de melhores filmes do site https://www.imdb.com/.
 
@@ -53,8 +53,8 @@ Here will be the images and descriptions. Principal content.
 ![Using_Sqlalchemy](https://www.google.com/search?q=tradutor&rlz=1C5CHFA_enBR924BR925&oq=tra&aqs=chrome.1.69i60j69i59j69i57j69i60l3j69i65l2.1663j0j7&sourceid=chrome&ie=UTF-8)
 
 ### 5 - Table and Columns created in the database
-![Using_PostgreeSQL](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.05.05.png)
-![Table](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.06.57.png)
+<div align=”center”> ![Using_PostgreeSQL]</div>(https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.05.05.png)
+<div align=”center”> ![Table]</div>(https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.06.57.png)
 
 ### 6 - History created in Tableau
 ![Story_1](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.58.27.png)
@@ -66,16 +66,20 @@ Here will be the images and descriptions. Principal content.
 
 ## Features
 
-  - Here will be the features.
+  - Class
+  - Database connection
+  - DataFrame creation
+  - Creating csv file
+  - Table Analysis
+  - History Creation
+  - Dashboard creation
 
 
 ## Links
 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Link of deployed application: https://public.tableau.com/profile/adriano.akihito.yoshizawa#!/vizhome/projeto_3/Apresentao
+  - Repository: https://github.com/adrianoay/projeto_3
+  - In case of sensitive bugs like security vulnerabilities, please contact adrianoay@gmail.com directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
 
 
 ## Versioning
@@ -85,8 +89,4 @@ Here will be the images and descriptions. Principal content.
 
 ## Authors
 
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
-
-
-Please follow github and join us!
-Thanks to visiting me and good coding!
+* **Adriano Akihito Yoshizawa**: @adrianoay (https://github.com/adrianoay)
