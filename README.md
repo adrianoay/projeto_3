@@ -1,4 +1,6 @@
-<div align=”center”>![Logo of the project]</div>(https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png)
+<div align="center">
+<img src="https://github.com/adrianoay/projeto_3/blob/main/readme_images/projeto_3.png">
+</div>
 
 ## Análise de Dados Ranking dos Melhores Filmes do IMDb
 
