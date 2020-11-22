@@ -42,7 +42,7 @@ Here will be the images and descriptions. Principal content.
 ![Using_dotenv_and_os](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.59.37.png)
 
 ### 2 - Web API class and returning the DataFrame
-![Using_Request](https://www.google.com/search?q=tradutor&rlz=1C5CHFA_enBR924BR925&oq=tra&aqs=chrome.1.69i60j69i59j69i57j69i60l3j69i65l2.1663j0j7&sourceid=chrome&ie=UTF-8)
+![Using_Request](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.59.59.png)
 
 ### 3 - DataFrame already manipulated and cleaned
 ![Using_Pandas](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.01.10.png)
