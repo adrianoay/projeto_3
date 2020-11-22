@@ -4,7 +4,7 @@
 
 # Data Analysis Ranking of the Best IMDb Movies
 
-Esse projeto teve com intuito fazer uma análise se podemos confiar no ranking de melhores filmes do site https://www.imdb.com/.
+This project aimed to analyze the reliability in the classification of the best films on the website https://www.imdb.com/ using the tools described below.
 
 ## Technology
 
@@ -50,11 +50,11 @@ Here will be the images and descriptions. Principal content.
 ![Using_Pandas](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.01.10.png)
 
 ### 4 - Class of the PostgreSQL database connection
-![Using_Sqlalchemy](https://www.google.com/search?q=tradutor&rlz=1C5CHFA_enBR924BR925&oq=tra&aqs=chrome.1.69i60j69i59j69i57j69i60l3j69i65l2.1663j0j7&sourceid=chrome&ie=UTF-8)
+![Using_Sqlalchemy](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.01.49.png)
 
 ### 5 - Table and Columns created in the database
-<div align=”center”> ![Using_PostgreeSQL]</div>(https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.05.05.png)
-<div align=”center”> ![Table]</div>(https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.06.57.png)
+![Using_PostgreeSQL](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.05.05.png)
+![Table](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2003.06.57.png)
 
 ### 6 - History created in Tableau
 ![Story_1](https://github.com/adrianoay/projeto_3/blob/main/readme_images/Captura%20de%20Tela%202020-11-22%20a%CC%80s%2002.58.27.png)
